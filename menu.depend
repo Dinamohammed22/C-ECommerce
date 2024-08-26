@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1701827806 source:c:\users\cc\desktop\c\menu\main.c
+	<stdio.h>
+	<windows.h>
+	"structs.c"
+	"initialize.c"
+	"findindex.c"
+	"findPindex.c"
+	"addCategory.c"
+	"display.c"
+	"addProduct.c"
+	"removeCategory.c"
+	"removeProduct.c"
+	"sell.c"
+	"moveProduct.c"
+
+1701818225 c:\users\cc\desktop\c\menu\addcategory.c
+
+1701807599 c:\users\cc\desktop\c\menu\structs.c
+
+1701815421 c:\users\cc\desktop\c\menu\display.c
+
+1701809572 c:\users\cc\desktop\c\menu\initialize.c
+
+1701810281 c:\users\cc\desktop\c\menu\findindex.c
+
+1701829279 c:\users\cc\desktop\c\menu\addproduct.c
+
+1701814073 c:\users\cc\desktop\c\menu\findpindex.c
+
+1701821389 c:\users\cc\desktop\c\menu\removecategory.c
+
+1701827806 c:\users\cc\desktop\c\menu\removeproduct.c
+
+1701827585 c:\users\cc\desktop\c\menu\sell.c
+
+1701829404 c:\users\cc\desktop\c\menu\moveproduct.c
+
